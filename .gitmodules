@@ -1,0 +1,9 @@
+[submodule "TaskApi"]
+	path = TaskApi
+	url = git@github.com:nikitazigman/TaskApi.git
+[submodule "AuthWorkBalancerAPI"]
+	path = AuthWorkBalancerAPI
+	url = git@github.com:nikitazigman/AuthWorkBalancerAPI.git
+[submodule "SentencesAPI"]
+	path = SentencesAPI
+	url = git@github.com:nikitazigman/SentencesAPI.git
